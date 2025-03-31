@@ -129,7 +129,7 @@ I remembered about the host in this chall. But netcat was refused to connect. So
 ![image](https://hackmd.io/_uploads/B1LMIwDa1g.png)
 
 The connection we need is: protocol:UDP, hostname:chals.swampctf.com, port:44254, Data: 0208666c61672e747874
-```
+```python
 import socket
 
 # Target server details
