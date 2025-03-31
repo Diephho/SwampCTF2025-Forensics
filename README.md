@@ -2,7 +2,9 @@
 ## Forensics
 
 ### Homework Help
-![image](https://hackmd.io/_uploads/H1TyuQS6ke.png)
+<p align="center">
+  <img src="https://hackmd.io/_uploads/H1TyuQS6ke.png" width="60%">
+</p>
 Resouce: SWAMP_D_image.zip
 
 In this chall, I got a **.vhd (Virtual Hard Disk)** file. So I open it with **FTK Imager**.
@@ -21,7 +23,9 @@ I try to export this file, open it and get the flag
 **FLAG: swampCTF{n0thing_i5_3v3r_d3l3t3d}**
 
 ### Preferential Treatment
-![image](https://hackmd.io/_uploads/SJfbs7rTkl.png)
+<p align="center">
+  <img src="https://hackmd.io/_uploads/SJfbs7rTkl.png" width="60%">
+</p>
 Resouce: gpnightmare.pcap
 
 It is a pcacp file. First, open it with Wireshark
@@ -38,7 +42,9 @@ So I decrypted it with **gpp-decrypt** tool and got the flag
 **FLAG: swampCTF{4v3r463_w1nd0w5_53cur17y}**
 
 ### Planetary Storage
-![image](https://hackmd.io/_uploads/SkczJ4Hpke.png)
+<p align="center">
+  <img src="https://hackmd.io/_uploads/SkczJ4Hpke.png" width="60%">
+</p>
 Resource: PlanetaryStorage.zip
 
 Unzip this file, I got some locked .ldb files and a LOG file
@@ -65,7 +71,9 @@ I got some words, it is the information was written into L0@2. So I check L0@7 a
 **FLAG: swampCTF{1pf5-b453d-d474b453}**
 
 ### MuddyWater
-![image](https://hackmd.io/_uploads/H1KPPVB6Jx.png)
+<p align="center">
+  <img src="https://hackmd.io/_uploads/H1KPPVB6Jx.png" width="60%">
+</p>
 Resource: muddywater.pcap
 
 Requests related to brute force login and requests to find successfully logged in usernames and passwords.
@@ -104,7 +112,10 @@ hackbackzip::DESKTOP-0TNOE4V:d102444d56e078f4:eb1b0afc1eef819c1dccd514c9623201:0
 **FLAG: swampCTF{hackbackzip:pikeplace}**
 
 ### Proto Proto
-![image](https://hackmd.io/_uploads/B1KSmHSTye.png)
+<p align="center">
+  <img src="https://hackmd.io/_uploads/B1KSmHSTye.png" width="60%">
+</p>
+
 Resource: proto_proto.pcap
 Host: chals.swampctf.com:44254
 
@@ -153,7 +164,9 @@ finally:
 
 ## Misc
 ### Pretty Picture: Double Exposure
-![image](https://hackmd.io/_uploads/ByDigLSpyg.png)
+<p align="center">
+  <img src="https://hackmd.io/_uploads/ByDigLSpyg.png" width="60%">
+</p>
 
 Open with StegOnline with option LSB Half
 ![image](https://hackmd.io/_uploads/rJlMZIBTyg.png)
@@ -166,7 +179,9 @@ Use some bit browse for full flag
 ## Osint time~
 
 ### Party Time!
-![image](https://hackmd.io/_uploads/ry64DSHTyx.png)
+<p align="center">
+  <img src="https://hackmd.io/_uploads/ry64DSHTyx.png" width="60%">
+</p>
 
 I got a picture .HEIC file, just open it and see a place in map, seriuously?
 ![image](https://hackmd.io/_uploads/BygwPBHpkl.png)
@@ -181,7 +196,9 @@ Just convert or put it in to google map
 **FLAG: swampCTF{29.65,82.33}**
 
 ### On Thin Ice
-![image](https://hackmd.io/_uploads/rJWdpBr6Jl.png)
+<p align="center">
+  <img src="https://hackmd.io/_uploads/rJWdpBr6Jl.png" width="60%">
+</p>
 Resouce: blank.jpg
 ![blank](https://hackmd.io/_uploads/BJOkxPwTke.jpg)
 
@@ -205,7 +222,9 @@ And just search the ice rink, there is only one ice rink in this town, filter "N
 
 
 ### Party Time! Level 2
-![image](https://hackmd.io/_uploads/H1fFhHr61x.png)
+<p align="center">
+  <img src="https://hackmd.io/_uploads/H1fFhHr61x.png" width="60%">
+</p>
 We got this house in last part, search ***"fast-food-restaurants"*** and the nearest place I see is ***"Checkers"***. Sort **"Newest"** in *Reviews*, I got the flag
 ![image](https://hackmd.io/_uploads/SJOg6rr6kx.png)
 
