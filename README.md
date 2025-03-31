@@ -3,6 +3,7 @@
 
 ### Homework Help
 ![image](https://hackmd.io/_uploads/H1TyuQS6ke.png)
+Resouce: SWAMP_D_image.zip
 
 In this chall, I got a **.vhd (Virtual Hard Disk)** file. So I open it with **FTK Imager**.
 
@@ -181,6 +182,7 @@ Just convert or put it in to google map
 
 ### On Thin Ice
 ![image](https://hackmd.io/_uploads/rJWdpBr6Jl.png)
+Resouce: blank.jpg
 ![blank](https://hackmd.io/_uploads/BJOkxPwTke.jpg)
 
 we got a .jpg file with just in black, and I just open Description of this file, some hex text is appeared
