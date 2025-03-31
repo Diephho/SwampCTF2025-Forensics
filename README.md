@@ -225,6 +225,7 @@ And just search the ice rink, there is only one ice rink in this town, filter "N
 <p align="center">
   <img src="https://hackmd.io/_uploads/H1fFhHr61x.png" width="60%">
 </p>
+
 We got this house in last part, search ***"fast-food-restaurants"*** and the nearest place I see is ***"Checkers"***. Sort **"Newest"** in *Reviews*, I got the flag
 ![image](https://hackmd.io/_uploads/SJOg6rr6kx.png)
 
