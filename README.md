@@ -203,9 +203,11 @@ Resouce: blank.jpg
 ![blank](https://hackmd.io/_uploads/BJOkxPwTke.jpg)
 
 we got a .jpg file with just in black, and I just open Description of this file, some hex text is appeared
+
 ![image](https://hackmd.io/_uploads/Sy4LeDPpJe.png)
 
 Decode this, I got some Russia text `Ӧкмысӧд воськов. Мездлун.`
+
 ![image](https://hackmd.io/_uploads/H1qhePDTyx.png)
 
 Let translate this to English, I was suggested by Google Translate that this is Komi language and the text is `Step eight. Freedom.`
